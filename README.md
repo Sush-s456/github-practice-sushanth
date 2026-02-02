@@ -1,1 +1,1 @@
-# github-pratice-sushanth
+# github-practice-sushanth
